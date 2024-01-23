@@ -1,0 +1,1 @@
+ffmpeg -r 10 -i %04d.png ../video.mp4

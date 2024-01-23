@@ -1,0 +1,1 @@
+ffmpeg -i input.mov -vf "setpts=(PTS-STARTPTS)/2" -crf 18 output.mp4
