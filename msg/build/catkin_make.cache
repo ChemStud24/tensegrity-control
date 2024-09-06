@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/pracsys/Desktop/tensegrity-control-master/msg/devel -DCMAKE_INSTALL_PREFIX=/home/pracsys/Desktop/tensegrity-control-master/msg/install -G Unix Makefiles
